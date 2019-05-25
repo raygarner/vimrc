@@ -9,12 +9,7 @@ set shiftwidth=2
 set expandtab
 vnoremap <C-c> "+y
 map <C-p> "+p
-noremap ; l
-noremap l k
-noremap k j
-noremap j h
 set noexpandtab
 filetype detect
 au BufNewFile,BufRead *.ms set filetype=groff
 au BufNewFile,BufRead *.ms set spell
-
