@@ -12,3 +12,4 @@ filetype detect
 au BufNewFile,BufRead *.ms set filetype=groff
 au BufNewFile,BufRead *.ms set spell
 au BufNewFile,BufRead *.tex set spell
+
